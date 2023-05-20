@@ -2,6 +2,14 @@
 
 The `custom-action-sheet` component is a cross-platform ActionSheet component that provides a unified way to display ActionSheets on iOS and Android. It utilizes the native `ActionSheetIOS` component on iOS for optimal visual effects.
 
+# Note
+
+This is an updated and enhanced version of the original "react-native-actionsheet" library. In this new version, existing issues have been addressed, and the library is now compatible with newer versions of React Native.
+
+Note: This library includes improvements made on top of the original "beefe/react-native-actionsheet" repository.
+
+Users can seamlessly integrate the ActionSheet component using this updated version and incorporate it into their projects with ease.
+
 ## Installation
 
 ```bash
